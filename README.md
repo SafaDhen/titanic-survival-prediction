@@ -35,6 +35,3 @@ Download `train.csv` and `test.csv` from the [Kaggle page](https://www.kaggle.co
   It also highlights the limitations of small data: models can be unstable, and small changes in feature selection can cause large swings in accuracy,
   reinforcing the need for cross-validation. 
 
-## Next steps
-
-- [TODO, e.g. try gradient boosting, tune hyperparameters]
